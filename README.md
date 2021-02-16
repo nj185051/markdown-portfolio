@@ -13,4 +13,7 @@ I'll meet you over there, can't wait to get started!
 ### This Readme File is updated by Ashish in feature branch.
 ### I am a collaborator and I will now make a PR in the master branch.
 
+With GitHub Learning Lab, you can grow your skills by completing fun, realistic projects. Get advice and helpful feedback from our friendly Learning Lab bot. <br>
+##### Check out more courses at https://lab.github.com/
+
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
